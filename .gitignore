@@ -1,0 +1,21 @@
+node_modules
+/target
+/.idea
+*.iml
+*.swp
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/.idea/
+/**/node_modules/
+/**/dist/
+/target/
+/v2g-server-mariadb-data
+/v2g-server-mongo-data
+/uploads

@@ -1,0 +1,9 @@
+.vote2go_wrapper iframe {
+    border: none;
+}
+@supports (-webkit-overflow-scrolling: touch) {
+    .vote2go_wrapper iframe {
+        width: 1px;
+        min-width: 100%;
+    }
+}
